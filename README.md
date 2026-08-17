@@ -13,3 +13,19 @@ This repo is dedicated to sharing my solved LeetCode problems, primarily in **Py
 - Track my problem-solving progress
 - Practice algorithms and data structures
 - Share clean and understandable Python approaches
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mar-ouane/LeetCode/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mar-ouane/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mar-ouane/LeetCode/tree/master/0011-container-with-most-water) |
+<!---LeetCode Topics End-->
